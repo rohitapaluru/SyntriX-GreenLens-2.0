@@ -1,0 +1,10 @@
+
+> copy-of-greenlens-2.0@0.0.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.0  ready in 361 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://10.0.0.86:3000/
+  ➜  press h + enter to show help
