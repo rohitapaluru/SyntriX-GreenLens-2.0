@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GreenLens 2.0",
+  "description": "An AI-powered platform to detect, report, and manage environmental waste. Users can upload photos of waste, get them analyzed by AI, and earn rewards for helping keep their communities clean.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
