@@ -1,2 +1,2 @@
-# SyntriX-GeenLens-
+# SyntriX-GreenLens-
 Smart Environment monitoring System ( Hackverse1.0)
