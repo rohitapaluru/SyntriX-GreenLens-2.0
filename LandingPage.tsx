@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from './components/Button';
+import Button from '../components/Button';
 
 interface LandingPageProps {
   onLogin: (isOrg: boolean) => void;
@@ -10,7 +10,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onLogin }) => {
     <div className="min-h-screen flex flex-col items-center justify-center p-4 text-center">
       <div className="max-w-2xl animate-slide-in-up">
         <h1 className="text-5xl md:text-7xl font-extrabold text-emerald-600 dark:text-emerald-400">
-          Greenlens 2.0
+          GreenGuard
         </h1>
         <p className="mt-4 text-lg md:text-xl text-slate-600 dark:text-slate-300">
           Join the movement. Report environmental waste, earn GreenUnits, and help us build a cleaner planet, one picture at a time.
